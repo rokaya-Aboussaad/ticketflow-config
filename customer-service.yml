@@ -9,3 +9,6 @@ management:
 
 ticketflow:
   message: "Bienvenue dans TicketFlow - configuration v1"
+
+custom:
+  greeting: "Hello from Config Server"
